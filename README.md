@@ -2,7 +2,7 @@
 
 An interactive 3D stage plot for bands, FOH engineers and monitor techs. Build the stage, place the band and their gear, and walk through it on a phone or a laptop.
 
-**Live app:** https://YOUR-GITHUB-USERNAME.github.io/stage-plot/ (replace with your GitHub username once Pages is on)
+**Live app:** https://waldenhollow.github.io/stage-plot/ (replace with your GitHub username once Pages is on)
 
 ## What it does
 
